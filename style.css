@@ -1,6 +1,9 @@
+
 body
 {
-background-image:url(backg.jpg)no-repeat 0 ;
+background-image:url(backg.jpg);
+ background-size: cover;
+ background-attachment:fixed;
  
   
 
