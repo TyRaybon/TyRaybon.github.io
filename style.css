@@ -16,6 +16,18 @@ background-color: white;
 
 }
 
+h1
+{
+	clear: both;
+	top-border: think solid #000;
+	text-align: center;
+	font-weight: bold; 
+	border-style: solid;
+	width: 500px;
+	margin: 40px auto 60px;
+
+}
+
 h2
 {
 background-color:black;
